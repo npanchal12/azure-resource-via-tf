@@ -1,0 +1,6 @@
+.terraform/
+.terraform.locl.hcl
+secrets.txt
+*.tfvars
+terraform.tfstate
+*.js
